@@ -52,5 +52,5 @@ Contributions and pull requests are welcome.
 This project is licensed under the MIT License.
 
 ## Contact
-For support, reach out to [your.email@example.com](mailto:your.email@example.com).
+For support, reach out to [sadiq99110@gmail.com](mailto:sadiq99110@gmail.com).
 
